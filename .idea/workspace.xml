@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94db0747-565b-49c9-b14d-6ebd31fdbc5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1uDe1C0oSeg6JobtzEoqjV3nrse" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/step_02" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/step_02/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/step_02" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/step_02/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Specifications" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="firebase-get-to-know-flutter" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+        <item itemvalue="Gauge Execution.Specifications" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94db0747-565b-49c9-b14d-6ebd31fdbc5b" name="Default Changelist" comment="" />
+      <created>1624204371034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624204371034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="17" width="1081" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624211023190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="142" y="17" width="1081" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1624211023190" />
+    <state x="416" y="155" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1624211017629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="155" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1624211017629" />
+    <state x="467" y="120" key="FileChooserDialogImpl" timestamp="1624211327871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624211327871" />
+    <state x="517" y="263" key="Github.ShareDialog" timestamp="1624211456815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="263" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1624211456815" />
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom" timestamp="1624211269447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
+    <state width="1314" height="177" key="GridCell.Tab.0.center" timestamp="1624211269447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
+    <state width="1314" height="177" key="GridCell.Tab.0.left" timestamp="1624211269447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
+    <state width="1314" height="177" key="GridCell.Tab.0.right" timestamp="1624211269447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
+  </component>
+</project>
