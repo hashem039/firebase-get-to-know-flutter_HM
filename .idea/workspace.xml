@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94db0747-565b-49c9-b14d-6ebd31fdbc5b" name="Default Changelist" comment="" />
+    <list default="true" id="94db0747-565b-49c9-b14d-6ebd31fdbc5b" name="Default Changelist" comment="initial state of the app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1uDe1C0oSeg6JobtzEoqjV3nrse" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/step_02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Dart Command Line App.main.dart">
@@ -66,7 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1624204371034</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial state of the app">
+      <created>1624211705129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624211705129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial state of the app" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial state of the app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="142" y="17" width="1081" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624211023190">
@@ -77,29 +93,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="416" y="155" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1624211017629" />
-    <state x="467" y="120" key="FileChooserDialogImpl" timestamp="1624211327871">
+    <state x="467" y="120" key="FileChooserDialogImpl" timestamp="1624211500447">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="467" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624211327871" />
-    <state x="517" y="263" key="Github.ShareDialog" timestamp="1624211456815">
+    <state x="467" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624211500447" />
+    <state x="517" y="263" key="Github.ShareDialog" timestamp="1624211754276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="263" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1624211456815" />
-    <state width="1314" height="177" key="GridCell.Tab.0.bottom" timestamp="1624211269447">
+    <state x="517" y="263" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1624211754276" />
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom" timestamp="1624211794329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1314" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
-    <state width="1314" height="177" key="GridCell.Tab.0.center" timestamp="1624211269447">
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624211794329" />
+    <state width="1314" height="177" key="GridCell.Tab.0.center" timestamp="1624211794329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1314" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
-    <state width="1314" height="177" key="GridCell.Tab.0.left" timestamp="1624211269447">
+    <state width="1314" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624211794329" />
+    <state width="1314" height="177" key="GridCell.Tab.0.left" timestamp="1624211794329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1314" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
-    <state width="1314" height="177" key="GridCell.Tab.0.right" timestamp="1624211269447">
+    <state width="1314" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624211794329" />
+    <state width="1314" height="177" key="GridCell.Tab.0.right" timestamp="1624211794329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1314" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624211269447" />
+    <state width="1314" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624211794329" />
+    <state x="279" y="98" key="Vcs.Push.Dialog.v2" timestamp="1624211728311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="279" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1624211728311" />
   </component>
 </project>
